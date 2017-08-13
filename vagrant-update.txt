@@ -1,0 +1,1 @@
+Vagrant is fun for Development
